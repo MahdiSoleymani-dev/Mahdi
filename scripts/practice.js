@@ -1,3 +1,5 @@
-var number1 = 10
-console.log(number1 + 5)
-console.log(number1 + 5)
+  var num1 = 10
+  var num2 = 2
+  function operation(){
+    console.log(num1 ** num2)
+  }
